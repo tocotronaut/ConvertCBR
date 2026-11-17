@@ -1,2 +1,2 @@
 # ConvertCBR
-a little shell script to convert CBR Files to CBZ
+a little macos shell script to convert CBR Files to CBZ
